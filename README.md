@@ -11,12 +11,13 @@ Both projects are fully independent, but designed to work well together.
 
 ## 📁 Repository Structure
 
-/
+
 ├── MazeGenerator/ # Python script to generate 20x15 mazes
 │ └── README.md # Instructions and usage
 │
 ├── MazeSolver/ # Java + OpenCV maze solver
 │ └── README.md # Setup and example run
+
 
 
 ---
