@@ -29,7 +29,9 @@ pip install pillow
 
 From the project root, run the script with **3 arguments**:
 
+```
 python maze_gen.py <width> <height> <filename>
+```
 
 
 ### Example:
