@@ -54,11 +54,14 @@ maze_image/maze_20x15.png
 
 ## 📁 Project Structure
 
+```
+
 MazeGenerator/
 ├── maze_gen.py
 ├── maze_image/
 │ └── maze_20x15.png ← output example
 
+```
 
 ---
 
